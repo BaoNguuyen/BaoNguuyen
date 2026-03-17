@@ -25,20 +25,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-### 🎨 Miro Clone
-> Real-time collaborative whiteboard
-
-- ⚡ Realtime sync (WebSocket)
-- 🧩 Canvas drawing
-- 👥 Multi-user collaboration
-
-🔗 Demo: https://your-app.vercel.app  
-📦 Repo: https://github.com/YOUR_USERNAME/miro-clone
-
----
-
 ## 🧩 Currently Learning
 - 🏗 System Design
 - ⚡ Performance Optimization
@@ -47,8 +33,8 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: your@email.com
-- 💼 LinkedIn: https://linkedin.com/in/yourname
+- 📧 Email: bao.nguyenk26@gmail.com
+- 💼 LinkedIn: [https://linkedin.com/in/yourname](https://www.linkedin.com/in/bao-nguyen-48056030a/)
 
 ---
 
